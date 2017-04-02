@@ -1,6 +1,7 @@
 # JIRA-Browser-Chrome-Extension
 Typing the entire url to visit a ticket in JIRA?No more!!
 
+https://chrome.google.com/webstore/detail/jira-ticket-browser/cedemlcpodpmalnpahnalcmjnhjmjkip
 
 JIRA is a popular agile tool.  Every JIRA user story/ticket has its unique number.  Each time we need to visit these user stories/tickets, we have to type the entire url even though we need to remember only the ticket number. Softcrylic Labs sensed it non productive and have developed this extension.  Here there are two text boxes
 
