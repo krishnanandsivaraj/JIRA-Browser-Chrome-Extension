@@ -2,8 +2,8 @@
    "name": "JIRA Ticket Browser",
    "short_name": "Softcrylic Labs",
   "manifest_version": 2,
-"version": "1.1",
-  "description": "Typing the entire url to visit a ticket in JIRA?No more!! Developed by Krishnanand for Softcrylic and Waggle.",
+"version": "1.2",
+  "description": "Typing the entire url to visit a ticket in JIRA?No more!!",
   "permissions": [
     "tabs", "http://*/*", "https://*/*",
           "storage"
@@ -12,6 +12,6 @@
   "browser_action": {
     "default_icon": "logo-waggle.png",
     "default_popup": "popup.html",
-    "default_title": "♥ Waggle Ticket Browser ♥"
+    "default_title": "♥ JIRA Ticket Browser ♥"
 }
 }
